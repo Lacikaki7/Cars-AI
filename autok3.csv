@@ -35,7 +35,7 @@ Audi,A4,2001,Diesel,Serial,4,1896.00,Manual,5.70,150.00,8265000.00
 Audi,A4,2006,Diesel,V,6,2976.00,Automatic,8.30,131.00,12820000.00
 Audi,A4,2009,Diesel,Serial,4,1968.00,Manual,4.90,233.00,9009250.00
 Audi,A4,2011,Diesel,Serial,4,1968.00,Automatic,4.80,136.00,9032620.00
-Audi,A4,2014,Gasoline,V,6,2995.00,,7.50,143.00,12842190.00
+Audi,A4,2014,Gasoline,V,6,2995.00,Automatic,7.50,143.00,12842190.00
 Audi,A4,2015,Diesel,V,6,2967.00,Automatic,4.20,272.00,13400610.00
 Audi,A4,2018,Gasoline,Serial,4,1984.00,Automatic,5.90,218.00,11457520.00
 Audi,A4,1998,Gasoline,Serial,4,1595.00,Manual,7.90,190.00,5528000.00
@@ -175,8 +175,8 @@ Mercedes,A,2022,Gasoline,Serial,4,1332.00,Automatic,,163.00,19512000.00
 Mercedes,B,2005,Gasoline,Serial,4,1498.00,Manual,6.80,95.00,6253000.00
 Mercedes,B,2009,Gasoline,Serial,4,1699.00,Manual,7.10,116.00,7411750.00
 Mercedes,B,2008,Diesel,Serial,4,1991.00,Automatic,6.30,140.00,9326750.00
-Mercedes,B,2012,Diesel,Serial,4,2143.00,,4.60,170.00,9883990.00
-Mercedes,B,2014,Diesel,Serial,4,1461.00,,3.60,109.00,9151850.00
+Mercedes,B,2012,Diesel,Serial,4,2143.00,Automatic,4.60,170.00,9883990.00
+Mercedes,B,2014,Diesel,Serial,4,1461.00,Manual,3.60,109.00,9151850.00
 Mercedes,B,2014,Gasoline,Serial,4,1595.00,Manual,5.80,122.00,7223670.00
 Mercedes,B,2014,Diesel,Serial,4,1461.00,Manual,4.40,109.00,8596860.00
 Mercedes,B,2019,Diesel,Serial,4,1461.00,Manual,4.30,116.00,9297900.00
